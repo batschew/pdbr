@@ -11,10 +11,10 @@ The files in the /src directory can be added to any newly created React project 
 The home page (light mode).
 
 ![Screenshot 2](/code/images/reader2.png)  
-The home page (dark mode).
+Viewing a book (light mode).
 
 ![Screenshot 3](/code/images/reader3.png)  
-Viewing a book (light mode).
+The home page (dark mode).
 
 ![Screenshot 4](/code/images/reader4.png)  
 Viewing a book (dark mode).
